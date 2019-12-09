@@ -1,0 +1,52 @@
+{
+  "companies": [
+    {
+      "CompanyID": "913386B9-A58F-4659-8695-CA5F4B8BA9F4",
+      "CompanyName": "TestCompany1",
+      "TradingName": "TestCompany1",
+      "RegisteredCompanyNo": "10010100020",
+      "IncorporationDate": "2019-11-28 16:57:46.873",
+      "RegisteredOfficeAddressID": "0D0A7AFF-EFD5-4C00-83FB-0300A546F37F",
+      "TradingAddressID": "0D0A7AFF-EFD5-4C00-83FB-0300A546F37F",
+      "VatRegistrationID": "10AD81E1-4FBF-4F56-86D0-BED8FFFD0AFE",
+      "CorporateStructureLevel": 1,
+      "HierarchyParentCompanyID": "C9956515-BFBA-42BC-8913-15C9CFBEF882",
+      "ManagingDirectorID": "BE00DA6E-3D3D-4472-B6FB-D3CD36360497",
+      "CompanySecretaryID": "81434FEE-FEE7-4467-A2F3-EE6C4A3635DF",
+      "CompanyCode": "ERT",
+      "AccountantID": "81434FEE-FEE7-4467-A2F3-EE6C4A3635DF"
+    },
+    {
+      "CompanyID": "3CAF7A3C-3626-4EA2-A1C6-48745F3F54FD",
+      "CompanyName": "TestCompany2",
+      "TradingName": "TestCompany2",
+      "RegisteredCompanyNo": "10010140020",
+      "IncorporationDate": "2019-11-21 16:57:46.873",
+      "RegisteredOfficeAddressID": "8B6990EA-778E-4167-81E4-03CC140C982E",
+      "TradingAddressID": "8B6990EA-778E-4167-81E4-03CC140C982E",
+      "VatRegistrationID": "10AD81E1-4FBF-4F56-86D0-BED8FFFD0AFE",
+      "CorporateStructureLevel": 1,
+      "HierarchyParentCompanyID": "C9956515-BFBA-42BC-8913-15C9CFBEF882",
+      "ManagingDirectorID": "BE00DA6E-3D3D-4472-B6FB-D3CD36360497",
+      "CompanySecretaryID": "81434FEE-FEE7-4467-A2F3-EE6C4A3635DF",
+      "CompanyCode": "EGT",
+      "AccountantID": "81434FEE-FEE7-4467-A2F3-EE6C4A3635DF"
+    },
+    {
+      "CompanyID": "913386B9-A58F-4659-8695-CA5F4B8BA9F4",
+      "CompanyName": "TestCompany3",
+      "TradingName": "TestCompany3",
+      "RegisteredCompanyNo": "10010600020",
+      "IncorporationDate": "2019-11-23 16:57:46.873",
+      "RegisteredOfficeAddressID": "852CF2B2-2150-4BEA-92A8-057056319D41",
+      "TradingAddressID": "852CF2B2-2150-4BEA-92A8-057056319D41",
+      "VatRegistrationID": "10AD81E1-4FBF-4F56-86D0-BED8FFFD0AFE",
+      "CorporateStructureLevel": 1,
+      "HierarchyParentCompanyID": "C9956515-BFBA-42BC-8913-15C9CFBEF882",
+      "ManagingDirectorID": "67C459FD-212D-4EE2-B9BC-0D8AB915FB31",
+      "CompanySecretaryID": "8912A051-848A-418E-86A4-84A2550EBC0C",
+      "CompanyCode": "GRT",
+      "AccountantID": "8912A051-848A-418E-86A4-84A2550EBC0C"
+    }
+  ]
+}
